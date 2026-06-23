@@ -138,27 +138,28 @@ http://localhost:8080/student_erp/admin/dashboard.php
 
 ### 🔐 Login Page
 
-(Add Screenshot)
+login.png
 
 ### 📊 Admin Dashboard
 
-(Add Screenshot)
+admin_dashboard.png
 
 ### 📅 Attendance Module
 
-(Add Screenshot)
+attendance.png
+teacher_attendance.png
 
 ### 📝 Assignments
 
-(Add Screenshot)
+assignments.png
 
 ### 📄 Report Card
 
-(Add Screenshot)
+report_card.png
 
 ### Holidays
 
-(Add Screenshot)
+holidays.png
 
 ---
 
