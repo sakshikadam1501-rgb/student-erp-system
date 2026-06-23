@@ -1,0 +1,6 @@
+http://localhost:8080/phpmyadmin/index.php?route=/server/databases
+
+http://localhost:8080/student_erp/admin/dashboard.php
+
+http://localhost:8080/student_erp/teacher/attendance.php
+
